@@ -2,6 +2,7 @@ Climate Insights Dataset 🌍📊🌡️🌊
 
 Welcome to the Climate Insights Dataset! This comprehensive dataset provides valuable insights into the impact of climate change on our planet. It encompasses a wide range of climate variables, including temperature measurements, CO2 emissions data, and sea level rise observations.
 
+This data was used to run a regression analysis with CO2 emissions and temperature with their correlation and significance between each other.
 
 Dataset Overview 📖
 
@@ -49,18 +50,9 @@ Don't forget to share your findings and contribute to climate research and aware
 
 Citation ⚖️
 
-If you use this dataset in your research or publications, please consider citing it to acknowledge the source and maintain data integrity.
+obtained from Kaggle
 
 
 License 🔒
 
 The Climate Insights Dataset is provided under the [CC0: Public Domain]. Please review the license terms and conditions before using the dataset.
-
-
-Let's Save Our Planet! 🌱🌞🌊
-
-Join us in analyzing and understanding the impact of climate change. Let's work together to protect our planet and create a sustainable future for generations to come!
-
-Explore the Climate Insights Dataset and start your journey today! 🌍🔍💡
-
-Feel free to modify and customize this README file as per your requirements and style preferences.
